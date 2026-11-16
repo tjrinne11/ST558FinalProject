@@ -1,0 +1,13 @@
+# Docker files
+*.tar
+*.tar.gz
+
+# R temporary files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# OS files
+.DS_Store
+/.quarto/
